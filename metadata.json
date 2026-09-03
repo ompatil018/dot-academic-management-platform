@@ -1,0 +1,6 @@
+{
+  "name": "DOT — Decision of Teacher",
+  "description": "Smarter Academic Operations. Better Decisions. Enterprise academic management platform for Colleges, HODs, Class Teachers, Subject Teachers, and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
